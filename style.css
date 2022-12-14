@@ -23,6 +23,7 @@ body {
 .columns2 {
     column-count: 2;
     column-gap: 20px;
+    column-width: 950px;
   }
 
   img {
